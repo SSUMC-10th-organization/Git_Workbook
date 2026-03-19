@@ -1,5 +1,5 @@
 # Github Session
-9월 19일 금요일에 진행되는 숭실대학교 UMC 10th Github Session 자료 입니다!
+3월 19일 목요일에 진행되는 숭실대학교 UMC 10th Github Session 자료 입니다!
 
 ## Hand-On 실습 순서
 
